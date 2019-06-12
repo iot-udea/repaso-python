@@ -6,9 +6,9 @@
 
 ## Actividad ##
 
-Analizar el siguiente tutorial de python [Introduction to Object Oriented Programming with Python](https://nbviewer.jupyter.org/github/drvinceknight/oop/blob/master/nbs/main.ipynb) tomado del siguiente [repositorio]( https://github.com/drvinceknight/oop/blob/master/nbs/main.ipynb). Con el fin de que pueda correrlo online:
+Analizar el siguiente tutorial de python [Introduction to Object Oriented Programming with Python](https://nbviewer.jupyter.org/github/drvinceknight/oop/blob/master/nbs/main.ipynb) tomado del siguiente [repositorio]( https://github.com/drvinceknight/oop/blob/master/nbs/main.ipynb). Con el fin de que pueda correrlo online presione el botón **execute on binder** tal y como lo muestra la siguiente figura:
 
-
+![execute_example](execute_example.png)
 
 Sin embargo para ir mas a la fija, puede descargar el notebook y ejecutarlo en el servidor jupyter instalado en su maquina. manera local.
 
